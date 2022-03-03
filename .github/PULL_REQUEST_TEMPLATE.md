@@ -3,7 +3,7 @@
 
 _TODO_
 
-**Links to documentation supporting these rule changes:**
+**Links to documentation supporting these rule changes:***
 
 _TODO_
 
